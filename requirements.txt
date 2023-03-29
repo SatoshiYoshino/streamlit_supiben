@@ -56,7 +56,6 @@ Pympler==1.0.1
 pyparsing==3.0.9
 pyrsistent==0.19.3
 python-dateutil==2.8.2
-Python==3.10.4
 pytz==2023.2
 pytz-deprecation-shim==0.1.0.post0
 PyYAML==6.0
@@ -71,6 +70,7 @@ soupsieve==2.4
 SQLAlchemy==1.4.47
 starlette==0.25.0
 streamlit==1.20.0
+streamlit-chat==0.0.2.2
 tenacity==8.2.2
 toml==0.10.2
 toolz==0.12.0
@@ -87,4 +87,3 @@ uvicorn==0.20.0
 validators==0.20.0
 yarl==1.8.2
 zipp==3.15.0
-streamlit_chat==0.0.2.2
